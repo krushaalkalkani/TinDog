@@ -9,5 +9,5 @@ Web-Site Link: https://krushaalkalkani.github.io/TinDog/
 
 # 👩‍💻 Technology
 -HTML
--CSS
--Bootstrap
+*CSS
++Bootstrap
