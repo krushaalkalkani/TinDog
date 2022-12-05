@@ -6,3 +6,8 @@ Web-Site Link: https://krushaalkalkani.github.io/TinDog/
 
 
 ![TinDog](https://user-images.githubusercontent.com/98822297/205552370-53144c0b-0a3d-4c39-98c4-0a59895713f8.png)
+
+# 👩‍💻 Technology
+-HTML
+-CSS
+-Bootstrap
